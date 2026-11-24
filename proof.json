@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/anotherlikeme/technocore-agent",
+    "commit": "cca86a76c7b504b67d39ff133de505cbbb0c6463",
+    "did": "did:key:z6MkjfZ38Q6wQmtz2iE5WRDU9F2AkqrbujcFmREgGViwm3i2",
+    "issued_at": 1795540397,
+    "expires_at": 1803316397,
+    "nonce": "f35babe6be0be247fa4a7553b3ec5564",
+    "signature": "cs2D5K4VhCV1j88Bt0GiUjSOcCMH8lkDOnVwGmdzvmjf591UFvMyvl5Iyk4vkn2HDxNMrNDv9zBnxqa7_YxeAw"
+}
