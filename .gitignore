@@ -1,0 +1,28 @@
+# Secrets and credentials
+*.pem
+*.key
+*.token
+*.txt
+!requirements.txt
+*.log
+.env*
+*secret*
+*wallet*
+*seed*
+*proxy*
+*passphrase*
+
+# System and editor
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.idea/
+.vscode/
+
+# Node
+node_modules/
+package-lock.json
+
+# Local state
+agent_state.json
